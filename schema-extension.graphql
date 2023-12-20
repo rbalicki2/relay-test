@@ -1,0 +1,3 @@
+extend type Foo {
+  extension_field: String
+}
